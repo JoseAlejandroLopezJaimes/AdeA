@@ -1,0 +1,6 @@
+com\example\springbootadea\config\SecurityConfig.class
+com\example\springbootadea\controller\UsuarioController.class
+com\example\springbootadea\entities\Usuario.class
+com\example\springbootadea\SpringBootAdeaApplication.class
+com\example\springbootadea\controller\HomeController.class
+com\example\springbootadea\dao\UsuarioRepository.class
